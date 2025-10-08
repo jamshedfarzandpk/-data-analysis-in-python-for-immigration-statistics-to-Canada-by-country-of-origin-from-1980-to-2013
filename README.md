@@ -52,3 +52,8 @@ Screenshot of the app results after running the all.py file:
 ![Screenshot](./data/8.png)
 ![Screenshot](./data/9.png)
 ![Screenshot](./data/10.png)
+### STEP 07- Screenshots of the dashboard.py results:
+Screenshot of the app results after running the dashboard.py file:
+1.after reading the xls file and creating the plots using dash and flask and result in dashboard:
+![Screenshot](./data/dashboard.png)
+
