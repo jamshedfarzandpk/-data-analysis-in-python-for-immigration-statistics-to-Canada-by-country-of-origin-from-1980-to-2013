@@ -39,4 +39,16 @@ Screenshot of the app results after running the main.py file:
 ![Screenshot](./data/newplot.png)
 ![Screenshot](./data/plot2.png)
 
-
+### STEP 06- Screenshots of the all.py results:
+Screenshot of the app results after running the all.py file:
+1.after reading the xls file and creating the plots
+![Screenshot](./data/newplot.png)
+![Screenshot](./data/plot2.png)
+![Screenshot](./data/3.png)
+![Screenshot](./data/4.png)
+![Screenshot](./data/5.png)
+![Screenshot](./data/6.png)
+![Screenshot](./data/7.png)
+![Screenshot](./data/8.png)
+![Screenshot](./data/9.png)
+![Screenshot](./data/10.png)
