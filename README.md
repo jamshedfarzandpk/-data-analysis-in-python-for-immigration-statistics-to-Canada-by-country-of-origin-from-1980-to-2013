@@ -41,7 +41,7 @@ Screenshot of the app results after running the main.py file:
 
 ### STEP 06- Screenshots of the all.py results:
 Screenshot of the app results after running the all.py file:
-1.after reading the xls file and creating the plots
+1.after reading the xls file and creating the plots and result in html file . you can also see the plots below in the html files:
 ![Screenshot](./data/newplot.png)
 ![Screenshot](./data/plot2.png)
 ![Screenshot](./data/3.png)
